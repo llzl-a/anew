@@ -137,3 +137,4 @@ Owner of Baileys | Owner of Api Alphabot |
 
 "# lolzproz" 
 "# lolzproz" 
+"# onew" 
